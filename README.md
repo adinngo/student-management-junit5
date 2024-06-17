@@ -1,7 +1,6 @@
-========================== StudentManagementConsoleTesting ver 18.03 ==========================
+# StudentManagementConsoleTesting 
 ### ©2024 by ngovinhthang | https://www.facebook.com/gnaht.ngovinh
-
-- Các kĩ thuật sử dụng trong APP
+##### Các kĩ thuật sử dụng trong APP
 * DDT (Data Driven Testing)
 * Unit Testing with Junit 5 framework
 * Lambda Expression
